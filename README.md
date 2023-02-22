@@ -10,15 +10,4 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
-
-
-Dummmy testing lines
-fd
-sdf
-dsf
-sdf
-sdf
-
-sdf
-dfs
 ```
